@@ -6,6 +6,4 @@ This is ESPHome firmware config for ESP8266-based extension module for two-wire 
 - digital call indicator;
 - autoopen toggle;
 
-Details of this project can be found here:
-
-https://esphynox.me/fun-projects/making-intercom-smart
+Details of this project can be found in article in description of project.
